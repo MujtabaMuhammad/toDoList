@@ -20,3 +20,8 @@ This is a simple to-do list web application built using HTML, CSS, and JavaScrip
 1. Clone the repository:
    ```bash
    git clone https://github.com/MujtabaMuhammad/todo-list-app.git
+
+2. Navigate to the project directory:
+   cd todo-list-app
+
+3. Open toDoList.html in your preferred web browser
