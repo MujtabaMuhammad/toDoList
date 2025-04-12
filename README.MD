@@ -22,6 +22,7 @@ This is a simple to-do list web application built using HTML, CSS, and JavaScrip
    git clone https://github.com/MujtabaMuhammad/todo-list-app.git
 
 2. Navigate to the project directory:
+    ```bash
    cd todo-list-app
 
 3. Open toDoList.html in your preferred web browser
